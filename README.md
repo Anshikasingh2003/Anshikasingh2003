@@ -42,7 +42,7 @@
 | --- | --- | --- | --- |
 | 💳 | [Credit Card Financial Report](https://github.com/Anshikasingh2003/Credit_Card_Report) | 57M revenue, 667K transactions, and why Blue cards carry the whole business | SQL · Power BI |
 | 📱 | [iPhone Sales Analysis](https://github.com/Anshikasingh2003/i-Phone-Analysis) | cheaper iPhones get way more ratings (−0.70 correlation) and discounts pull buyers in | Python · Plotly |
-| 👥 | [HR Analytics Dashboard](https://github.com/Anshikasingh2003/HR-data-Analysis) | 16% attrition, and most leavers are 26–35 on the lowest salary slab | Excel |
+| 👥 | [HR Analytics Dashboard](https://github.com/Anshikasingh2003/HR-data-Analysis) | 16% attrition: almost half the leavers are 26–35, and most are on the lowest salary slab | Excel |
 | 🛒 | [Supermarket Sales Analysis](https://github.com/Anshikasingh2003/Sales_Data-with-Python-) | sales up 51% and profit almost doubled from 2014 to 2017 | Python · pandas |
 
 ### 🌱 currently
