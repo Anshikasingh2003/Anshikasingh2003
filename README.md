@@ -1,23 +1,24 @@
 <h1 align="center">hey, i'm anshika ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=data+analyst+%F0%9F%93%8A+making+numbers+make+sense;messy+spreadsheets+%E2%86%92+clean+dashboards;if+it+doesn't+reconcile%2C+i+will+find+out+why+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=data+analyst+%C2%B7+SQL+%C2%B7+Power+BI;raw+data+%E2%86%92+SQL+models+%E2%86%92+dashboards;turning+business+questions+into+queries" alt="typing intro" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/anshikasingh2004"><img src="https://img.shields.io/badge/LinkedIn-connect-7C3AED?style=for-the-badge" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/based_in-New_Delhi-7C3AED?style=for-the-badge" alt="New Delhi">
-  <img src="https://img.shields.io/badge/open_to-data_analyst_roles-C026D3?style=for-the-badge" alt="Open to data analyst roles">
+  <img src="https://img.shields.io/badge/open_to-Data_Analyst_%7C_BI_Dev_%7C_SQL_Dev-C026D3?style=for-the-badge" alt="Open to Data Analyst, BI Developer and SQL Developer roles">
 </p>
 
 ---
 
 ### 🫧 the vibe
 
-- 📊 **data analyst** with 2 years of turning raw, chaotic data into reports people actually use
-- 🧾 my love language is **reconciliation**: three sources, one truth, zero unexplained differences
-- ✈️ i've reconciled monthly billing for **39 airline carriers** (30,000 records a month) and tied every row back to source
-- ⚡ automated a **2–4 hour** morning task into one repeatable step, so the team starts work, not copy-paste
+- 📊 **data analyst** with 2 years of turning raw, multi-source data into reporting people can trust
+- 🗄️ i build **SQL Server** databases with staging, master and reporting views using joins, CTEs and aggregations
+- 📈 i design **Power BI** dashboards with DAX measures and slicers that answer a business question at a glance
+- ✅ my data loads tie back to source with control totals: **30,000 records a month** across 39 airline carriers
+- ⚡ automated a **2–4 hour** daily reporting task into one repeatable step
 - 🎓 currently doing my **MCA** at Sikkim Manipal University and levelling up in SQL Server and Power BI
 
 ### 🛠️ my toolkit
@@ -50,12 +51,12 @@
 ```txt
 📚 studying   → MCA @ Sikkim Manipal University
 🧠 learning   → advanced SQL Server + Power BI data modelling
-🔍 looking    → data analyst / BI / audit analytics roles
+🔍 looking    → Data Analyst / BI Developer / SQL Developer roles
 ```
 
 ### ⚡ random facts
 
-- i get weirdly happy when a control total matches to the last kilogram
+- i would rather write one clean CTE than five nested subqueries
 - my favourite excel function is still XLOOKUP, no notes
 - dashboards should answer a question in 5 seconds or they need a redo
 
